@@ -4,7 +4,9 @@ Multidisciplinary software engineer working across AI/ML, autonomous systems, co
 
 I like building unusual systems end-to-end: from research ideas and algorithms to working products, infrastructure, interfaces, and experiments.
 
-Selected projects
+
+Recent selected projects:
+
 
 ### 🧠 Elira
 
@@ -17,6 +19,7 @@ She has persistent identity and autobiographical memory, an ongoing autonomous c
 - Elira's public repository: https://github.com/devastor/elira-public
 - Interactive visualization of Elira's architecture: https://eliramap.devastor.ru/
 
+
 🧬 CellVerse Ultra
 
 An interactive procedural 3D cell engine with biologically grounded scales, counts, structures, and intracellular dynamics, running in the browser.
@@ -25,6 +28,7 @@ Live project: https://cellverse.devastor.com/
 
 Technical article / performance experiment: https://discourse.threejs.org/t/17-billion-triangles-in-a-browser-how-i-built-cellverse-ultra-a-living-interactive-3d-cell-in-one-week/92778
 
+
 🎙️ Emofon
 
 Voice-emotion analysis application using neural networks to recognize emotional characteristics in speech/audio.
@@ -32,6 +36,7 @@ Voice-emotion analysis application using neural networks to recognize emotional 
 Website: https://emofon.online/
 
 Google Play: https://play.google.com/store/apps/details?id=com.Devastor
+
 
 Engineering
 
@@ -43,7 +48,8 @@ You can browse the rest of my public work here:
 
 Repositories: https://github.com/devastor?tab=repositories
 
-Contact
+
+Contacts
 
 Email: ahmetovv@mail.ru
 
